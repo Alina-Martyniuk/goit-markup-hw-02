@@ -1,3 +1,9 @@
+#Mac OS
+.DS_Store
+*.code-workspace
+
+.vscode/settings.json
+
 # Logs
 logs
 *.log
